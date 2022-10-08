@@ -1,1 +1,7 @@
-~*
+*~
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.txt
+__pycache__

@@ -1,0 +1,7 @@
+conda activate tf
+python MA2_test.py
+python MA2.py
+
+To exit prompt, type 'quit' or 'q'
+
+
